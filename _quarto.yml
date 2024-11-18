@@ -8,13 +8,9 @@ project:
 website:
   open-graph: true
   title: "Mariah C. Boudreau"
-  site-url: https://mariahcboudreau.github.io
-  repo-url: https://github.com/mariahcboudreau/mariahcboudreau.github.io
+  site-url: https://elizabyanne.github.io
+  repo-url: https://github.com/elizabyanne/elizabyanne.github.io
   favicon: assets/images/uvm.ico
-  twitter-card: 
-    creator: "@Mariah-Boudreau"
-    site: "@Mariah-Boudreau"
-    card-style: "summary_large_image"
 
   navbar:
     style: "floating"
