@@ -7,7 +7,7 @@ project:
 
 website:
   open-graph: true
-  title: "Mariah C. Boudreau"
+  title: "Calla G. Beauregard"
   site-url: https://elizabyanne.github.io
   repo-url: https://github.com/elizabyanne/elizabyanne.github.io
   favicon: assets/images/uvm.ico
@@ -20,10 +20,10 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: CV.pdf
-        text: CV
-      - href: Resume.pdf
-        text: Resume
+      #- href: CV.pdf
+      #  text: CV
+      #- href: Resume.pdf
+      #  text: Resume
       - href: publications.qmd
         text: Publications
     search: true
