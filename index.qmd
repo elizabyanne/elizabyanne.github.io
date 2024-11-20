@@ -4,7 +4,7 @@ title: "Welcome!"
 
 <img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
 
-I am a PhD student.
+I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont.
 
 ::: {.column-page-inset .text-center}
 ```{=html}
@@ -30,5 +30,8 @@ I am a PhD student.
 
 ## Recent News
 
-* **November 2024**: 
+* **November 2024**: ArXiV published pre-print 'Hollywood's misrepresentation of death: 
+A comparison of overall and by-gender mortality causes in film and the real world' 
+
+* **April 2024**: 'Habitat Blocks: A Network Approach' poster recognized by Center for Research on Vermont Annual Meeting 2024
 

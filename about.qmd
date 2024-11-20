@@ -4,14 +4,24 @@ title: "About"
 
 <img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
 
-I am a student. 
+I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont. I am interested
+in the interplay between health and society, specifically through the storytelling within health ecosystem. Using natural language processing (NLP)
+and digital epidemiology, I hope to understand how largescale corpora relating patient and provider experiences can elucidate risk and protective
+factors across the global disease burden. Right now, I am particularly interested in pregnancy and maternal health. 
+
+I graduated from the United States Military Academy at West Point in 2014 with a Bachelors in Math, and a minor in
+Applied Statistics. I earned a Rhodes Scholarship to the University of Oxford, where I graduated with an
+MPhil in Evidence-based Social Intervention and Policy Evaluation. I spent 8 years in the United States Army
+as an active-duty Medical Service Corps officer, serving in Alaska and New York, with training exercises in Singapore and Malaysia. As a company commander, 
+I served a combat tour in Iraq in 2019-2020. 
 
 
 
 
 <img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
 
-I have fun outdoors. 
+I have fun outdoors. My favorite activities are Nordic and backcountry skiing, flyfishing, and ice climbing. I also love to read (anything and
+everything) from historical fiction to science fiction to fantasy and political thrillers. 
 
 
 
