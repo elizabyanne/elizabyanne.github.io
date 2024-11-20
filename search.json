@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "docs/about.html",
-    "href": "docs/about.html",
-    "title": "About Me",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelors of Science in Mathematics at the Saint Michael’s College. After graduating, I immediately started my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and within the Vermont Complex Systems Center.\nWhen I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking, skiing, or ski patrolling, or at a Crossfit class."
+    "text": "(Former name: Calla E. Y. Glavin)\n, Montgomery B (2017). Creative bibliotherapy for posttraumatic stress disorder (PTSD): a systematic review, Journal of Poetry Therapy, 30:2, 95-107, DOI: 10.1080/08893675.2017.1266190\nGolecki HM, Yuan H, , Potter B, Badrossamay MR, Goss JA, Phillips MD, Parker KK. Effect of solvent evaporation on fiber morphology in rotary jet spinning. Langmuir. 11;30(44):13369-74, DOI: 10.1021/la5023104\nYakubovich AR, Stöckl H, Murray J, Melendez-Torres GJ, Steinert JI, , Humphreys DK. Risk and Protective Factors for Intimate Partner Violence Against Women: Systematic Review and Meta-analyses of Prospective-Longitudinal Studies. Am J Public Health. 108(7):e1-e11. DOI: 10.2105/AJPH.2018.304428."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a student.\n\nI have fun outdoors."
+    "text": "I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont. I am interested in the interplay between health and society, specifically through the storytelling within health ecosystem. Using natural language processing (NLP) and digital epidemiology, I hope to understand how largescale corpora relating patient and provider experiences can elucidate risk and protective factors across the global disease burden. Right now, I am particularly interested in pregnancy and maternal health.\nI graduated from the United States Military Academy at West Point in 2014 with a Bachelors in Math, and a minor in Applied Statistics. I earned a Rhodes Scholarship to the University of Oxford, where I graduated with an MPhil in Evidence-based Social Intervention and Policy Evaluation. I spent 8 years in the United States Army as an active-duty Medical Service Corps officer, serving in Alaska and New York, with training exercises in Singapore and Malaysia. As a company commander, I served a combat tour in Iraq in 2019-2020.\n\nI have fun outdoors. My favorite activities are Nordic and backcountry skiing, flyfishing, and ice climbing. I also love to read (anything and everything) from historical fiction to science fiction to fantasy and political thrillers."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I am a PhD student."
+    "text": "I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont."
   },
   {
     "objectID": "index.html#research-interests",
@@ -39,6 +39,6 @@
     "href": "index.html#recent-news",
     "title": "Welcome!",
     "section": "Recent News",
-    "text": "Recent News\n\nNovember 2024:"
+    "text": "Recent News\n\nNovember 2024: ArXiV published pre-print ‘Hollywood’s misrepresentation of death: A comparison of overall and by-gender mortality causes in film and the real world’\nApril 2024: ‘Habitat Blocks: A Network Approach’ poster recognized by Center for Research on Vermont Annual Meeting 2024"
   }
 ]
