@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-<img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
+<img src="/images/crow_phd.png" width="70%" hspace="10" align="right">
 
 I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont. I am interested
 in the interplay between health and society, specifically through the storytelling within health ecosystem. Using natural language processing (NLP)
@@ -14,11 +14,6 @@ Applied Statistics. I earned a Rhodes Scholarship to the University of Oxford, w
 MPhil in Evidence-based Social Intervention and Policy Evaluation. I spent 8 years in the United States Army
 as an active-duty Medical Service Corps officer, serving in Alaska and New York, with training exercises in Singapore and Malaysia. As a company commander, 
 I served a combat tour in Iraq in 2019-2020. 
-
-
-
-
-<img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
 
 I have fun outdoors. My favorite activities are Nordic and backcountry skiing, flyfishing, and ice climbing. I also love to read (anything and
 everything) from historical fiction to science fiction to fantasy and political thrillers. 
