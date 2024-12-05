@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-<img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
+<img src="/images/headshot.jpg" width="30%" hspace="20" align="center">
 
 I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont.
 
