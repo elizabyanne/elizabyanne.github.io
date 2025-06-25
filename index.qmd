@@ -34,11 +34,11 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 * **July 2025**: Fellowship, National Museum of Mathematics (MoMath) 
 Mathematics Outreach Seminar and Training (MOST)
 
-* **June 2025**: JMIR Formative Research published 'Misrepresentation of Overall and By-Gender Mortality Causes 
-in Film Using Online, Crowd-Sourced Data: Quantitative Analysis' (Beauregard, Danforth & Dodds)
+* **June 2025**: JMIR Formative Research <a href="https://pubmed.ncbi.nlm.nih.gov/40554798/">article</a> published 
+'Misrepresentation of Overall and By-Gender Mortality Causes in Film Using Online, Crowd-Sourced Data: Quantitative Analysis' (Beauregard, Danforth & Dodds, 2025)
 
-* **April 2025**: aRXiV pre-print 'Tokens, the oft-overlooked appetizer: 
-Large language models, the distributional hypothesis, and meaning' ()
+* **April 2025**: aRXiV <a href="http://arxiv.org/abs/2412.10924">pre-print</a> 'Tokens, the oft-overlooked appetizer: 
+Large language models, the distributional hypothesis, and meaning' (Zimmerman et al., 2025)
 
 * **April 2024**: 'Habitat Blocks: A Network Approach' poster recognized by Center for Research on Vermont Annual Meeting 2024
 
