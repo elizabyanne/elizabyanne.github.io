@@ -18,20 +18,27 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 :::
 
 ## Research Interests
+* Computational social sciences 
 * Health and storytelling
 * Evidenced-based social interventions
 * Digital epidemiology
 
 ## Personal Interests
-* Mountains
+* Mountains 
 * Books
 * Food
+* Finn-Merino Sheep (ours are named Wallace and Gromit!)
 
 
 ## Recent News
+* **July 2025**: Fellowship, National Museum of Mathematics (MoMath) 
+Mathematics Outreach Seminar and Training (MOST)
 
-* **November 2024**: ArXiV published pre-print 'Hollywood's misrepresentation of death: 
-A comparison of overall and by-gender mortality causes in film and the real world' 
+* **June 2025**: JMIR Formative Research published 'Misrepresentation of Overall and By-Gender Mortality Causes 
+in Film Using Online, Crowd-Sourced Data: Quantitative Analysis' (Beauregard, Danforth & Dodds)
+
+* **April 2025**: aRXiV pre-print 'Tokens, the oft-overlooked appetizer: 
+Large language models, the distributional hypothesis, and meaning' ()
 
 * **April 2024**: 'Habitat Blocks: A Network Approach' poster recognized by Center for Research on Vermont Annual Meeting 2024
 
