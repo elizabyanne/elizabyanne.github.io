@@ -7,7 +7,7 @@ title: "About"
 I am a PhD student in the Computational Story Lab in the Vermont Complex Systems Institute at the University of Vermont. I am interested
 in the interplay between health and society, specifically through the storytelling within health ecosystem. Using natural language processing (NLP)
 and digital epidemiology, I hope to understand how largescale corpora relating patient and provider experiences can elucidate risk and protective
-factors across the global disease burden. Right now, I am particularly interested in pregnancy and maternal health. 
+factors across the global disease burden. Right now, I am particularly interested in reproductive health. 
 
 I graduated from the United States Military Academy at West Point in 2014 with a Bachelors in Math, and a minor in
 Applied Statistics. I earned a Rhodes Scholarship to the University of Oxford, where I graduated with an

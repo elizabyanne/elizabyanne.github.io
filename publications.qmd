@@ -1,6 +1,18 @@
 ---
 title: "Publications"
 ---
+
+Beauregard C, Suchdev P, Fehr AMA, Smith IT,
+Tanzin Prama T, Zimmerman JW, Ward C, Lovato J, Danforth CM, Dodds PS.
+Detecting sub-populations in online health communities: A mixed-methods 
+exploration of breastfeeding messages in BabyCenter Birth Clubs. <a href="https://doi.org/10.48550/arXiv.2510.23692">
+arXiv:2510.23692</a> [cs.SI] 27 Oct 2025. 
+
+St. Onge J, Fehr AMA, Ward C, Beauregard CG, Arnold MV, Rosenblatt S, Cooley B, 
+Danforth CM, Dodds S. A suite of allotaxonometric tools for the comparison of complex systems 
+using rank-turbulence divergence. arXiv:<a href="https://arxiv.org/html/2506.21808v1">
+2506.21808v1</a> [cs.CL] 26 Jun 2025.
+
 Beauregard C, Danforth C, Dodds PS (2025). Misrepresentation of Overall and By-Gender Mortality 
 Causes in Film Using Online, Crowd-Sourced Data: Quantitative Analysis. JMIR Formative Research.
 9:e70853, DOI:<a href="https://pubmed.ncbi.nlm.nih.gov/40554798/">10.2196/70853</a>.
