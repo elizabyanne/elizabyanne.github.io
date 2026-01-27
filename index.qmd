@@ -34,8 +34,8 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 
 ## Recent News
 * **January 2026**:  Presented 'Detecting sub-populations in online health communities: A mixed-methods 
-exploration of breastfeeding messages in BabyCenter Birth Clubs' (<a href="https://doi.org/10.48550/arXiv.2510.23692">
-here</a>) at <a href="https://sciforum.net/event/IOCSO2026">1st 
+exploration of breastfeeding messages in BabyCenter Birth Clubs' <a href="https://doi.org/10.48550/arXiv.2510.23692">
+(here)</a> at <a href="https://sciforum.net/event/IOCSO2026">1st 
 Annual International Online Conferences on Societ ies 2026</a>  
 
 * **December 2025**: 'Statistical laws and linguistics inform meaning in 
