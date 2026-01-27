@@ -33,17 +33,19 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 <a href="https://wood4good.org/">Wood4Good</a> to help end heating insecurity in Vermont!
 
 ## Recent News
-* **January 2026**:  Presented <a href="https://doi.org/10.48550/arXiv.2510.23692">
-BabyCenter work work</a> at <a href="https://sciforum.net/event/IOCSO2026">1st 
-Annual International Online Conferences on Societies 2026</a>  
+* **January 2026**:  Presented 'Detecting sub-populations in online health communities: A mixed-methods 
+exploration of breastfeeding messages in BabyCenter Birth Clubs' (<a href="https://doi.org/10.48550/arXiv.2510.23692">
+here</a>) at <a href="https://sciforum.net/event/IOCSO2026">1st 
+Annual International Online Conferences on Societ ies 2026</a>  
 
 * **December 2025**: 'Statistical laws and linguistics inform meaning in 
-naturalistic and fictional conversation' (Fehr et al., 2025) published to 
+naturalistic and fictional conversation' (Fehr et al., 2025) pre-print published to 
 <a href="https://arxiv.org/abs/2512.18072">
 arXiv:2512.18072</a> (co-author)
 
 * **November 2025**: 'Detecting sub-populations in online health communities: A mixed-methods 
-exploration of breastfeeding messages in BabyCenter Birth Clubs' published to <a href="https://doi.org/10.48550/arXiv.2510.23692">
+exploration of breastfeeding messages in BabyCenter Birth Clubs' (Beauregard et al., 2025) pre-print 
+published to <a href="https://doi.org/10.48550/arXiv.2510.23692">
 arXiv:2510.23692</a>
 
 * **Fall 2025**: Led data analysis K-12 outreach events-- South Burlington High School research students, Girls Who Code
@@ -54,15 +56,16 @@ arXiv:2510.23692</a>
 * **July 2025**: Fellowship, National Museum of Mathematics (MoMath) 
 Mathematics Outreach Seminar and Training (MOST)
 
-* **June 2025**: arXiv:<a href="https://arxiv.org/html/2506.21808v1">
-2506.21808v1</a> [cs.CL] 'A suite of allotaxonometric tools for the comparison of complex systems 
-using rank-turbulence divergence.' (co-author to St. Onge J, Fehr AMA, et al.)
+* **June 2025**: 'A suite of allotaxonometric tools for the comparison of complex systems 
+using rank-turbulence divergence' (St. Onge J, Fehr AMA, et al., 2025) (co-author) pre-print published to 
+<a href="https://arxiv.org/html/2506.21808v1">arXiv:2506.21808v1</a> 
 
 * **June 2025**: JMIR Formative Research <a href="https://pubmed.ncbi.nlm.nih.gov/40554798/">article</a> published 
 'Misrepresentation of Overall and By-Gender Mortality Causes in Film Using Online, Crowd-Sourced Data: Quantitative Analysis' (Beauregard, Danforth & Dodds, 2025)
 
-* **April 2025**: arXiv <a href="http://arxiv.org/abs/2412.10924">pre-print</a> 'Tokens, the oft-overlooked appetizer: 
-Large language models, the distributional hypothesis, and meaning' (Zimmerman et al., 2025)
+* **April 2025**: 'Tokens, the oft-overlooked appetizer: 
+Large language models, the distributional hypothesis, and meaning' (Zimmerman et al., 2025) pre-print
+published to <a href="http://arxiv.org/abs/2412.10924">arXiv:2412.10924</a>
 
 * **April 2024**: 'Habitat Blocks: A Network Approach' poster recognized by Center for Research on Vermont Annual Meeting 2024
 
