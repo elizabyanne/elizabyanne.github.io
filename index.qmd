@@ -33,9 +33,15 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 <a href="https://wood4good.org/">Wood4Good</a> to help end heating insecurity in Vermont!
 
 ## Recent News
+* **January 2026**:  Presented <a href="https://doi.org/10.48550/arXiv.2510.23692">
+BabyCenter work work</a> at <a href="https://sciforum.net/event/IOCSO2026">1st 
+Annual International Online Conferences on Societies 2026</a>  
+
+* **December 2025**: Pre-print "<a href="https://arxiv.org/abs/2512.18072">Statistical laws and linguistics inform meaning in 
+naturalistic and fictional conversation</a>" (Fehr et al., 2025) published to arXiv, co-author
+
 * **November 2025**: 'Detecting sub-populations in online health communities: A mixed-methods 
-exploration of breastfeeding messages in BabyCenter Birth Clubs' (accepted to <a href="https://sciforum.net/event/IOCSO2026">1st Annual International Online Conferences
-on Societies 2026)</a> and published to <a href="https://doi.org/10.48550/arXiv.2510.23692">
+exploration of breastfeeding messages in BabyCenter Birth Clubs' published to <a href="https://doi.org/10.48550/arXiv.2510.23692">
 arXiv:2510.23692</a>
 
 * **Fall 2025**: Led data analysis K-12 outreach events-- South Burlington High School research students, Girls Who Code
