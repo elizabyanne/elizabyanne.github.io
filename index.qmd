@@ -37,8 +37,10 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 BabyCenter work work</a> at <a href="https://sciforum.net/event/IOCSO2026">1st 
 Annual International Online Conferences on Societies 2026</a>  
 
-* **December 2025**: Pre-print "<a href="https://arxiv.org/abs/2512.18072">Statistical laws and linguistics inform meaning in 
-naturalistic and fictional conversation</a>" (Fehr et al., 2025) published to arXiv, co-author
+* **December 2025**: 'Statistical laws and linguistics inform meaning in 
+naturalistic and fictional conversation' (Fehr et al., 2025) published to 
+<a href="https://arxiv.org/abs/2512.18072">
+arXiv:2512.18072</a> (co-author)
 
 * **November 2025**: 'Detecting sub-populations in online health communities: A mixed-methods 
 exploration of breastfeeding messages in BabyCenter Birth Clubs' published to <a href="https://doi.org/10.48550/arXiv.2510.23692">
