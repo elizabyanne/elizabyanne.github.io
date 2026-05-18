@@ -1,12 +1,24 @@
 ---
 title: "Publications"
 ---
+Beauregard CG, Zimmerman JW, Fehr AMA, Tangherlini TR, Danforth CM, and Dodds PS. 
+Archetypes and gender in fiction: A data-driven mapping of gender stereotypes in stories.
+<a href="https://arxiv.org/abs/2602.17005">arXiv:2602.17005</a> 2026. *under consideration at EPJ Data Science
+
+Prama TT, Beauregard CG, and Dodds PS. Self-Reported Archetypes and Behavioral 
+Failures in Large Language Models. pre-print in preparation. 2026. 
+
+Zimmeran JW, Beauregard CG, Prama TT, Suchdev P, Kollrack E, and Cramer K. Are LLM's Really Stochastic Parrots?
+2026. (Ongoing: Accepted for presentation at 2026 
+Institut des sciences cognitives (<a href="https://sites.grenadine.uqam.ca/sites/isc/en/iscuqam2026">Institute of Cognitive Sciences) Summer School - 
+Knowledge, Reasoning, and Decision-Making</a> at 
+UQAM (Université du Québec à Montréal)) 
 
 Beauregard C, Suchdev P, Fehr AMA, Smith IT,
 Tanzin Prama T, Zimmerman JW, Ward C, Lovato J, Danforth CM, Dodds PS.
 Detecting sub-populations in online health communities: A mixed-methods 
 exploration of breastfeeding messages in BabyCenter Birth Clubs. <a href="https://doi.org/10.48550/arXiv.2510.23692">
-arXiv:2510.23692</a> [cs.SI] 27 Oct 2025. 
+arXiv:2510.23692</a> [cs.SI] 27 Oct 2025. *under consideration at PLoS Digital Health
 
 St. Onge J, Fehr AMA, Ward C, Beauregard CG, Arnold MV, Rosenblatt S, Cooley B, 
 Danforth CM, Dodds S. A suite of allotaxonometric tools for the comparison of complex systems 

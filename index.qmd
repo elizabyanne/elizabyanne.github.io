@@ -19,6 +19,7 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 
 ## Research Interests
 * Computational social sciences 
+* AI Literacy for K-12
 * Health and storytelling
 * Evidenced-based social interventions
 * Digital epidemiology
@@ -33,6 +34,9 @@ I am a PhD student in the Computational Story Lab in the Vermont Complex Systems
 <a href="https://wood4good.org/">Wood4Good</a> to help end heating insecurity in Vermont!
 
 ## Recent News
+* **February 2026**: Awarded 10k UVM AI Innovation Award as Co-PI to develop pilot 
+study for Vermont AI Literacy Initative (<a href="https://vermontcomplexsystems.org/projects/vali/">VALI</a>)
+
 * **January 2026**:  Presented 'Detecting sub-populations in online health communities: A mixed-methods 
 exploration of breastfeeding messages in BabyCenter Birth Clubs' <a href="https://doi.org/10.48550/arXiv.2510.23692">
 (here)</a> at <a href="https://sciforum.net/event/IOCSO2026">1st 
@@ -51,7 +55,7 @@ arXiv:2510.23692</a>
 * **Fall 2025**: Led data analysis K-12 outreach events-- South Burlington High School research students, Girls Who Code
 (Burlington Chapter), Women Can Do Conference (Randolph, VT)
 
-* **September 2025**: Started consultancy, Spire Training Group
+* **September 2025**: Started Data Science consultancy, <a href="https://spiretg.com/about/">Spire Training Group</a>
 
 * **July 2025**: Fellowship, National Museum of Mathematics (MoMath) 
 Mathematics Outreach Seminar and Training (MOST)
